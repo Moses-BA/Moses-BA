@@ -39,7 +39,7 @@
       Developed a web application for a small business that allows them to manage their inventory and orders,
       Developed a mobile app for a social media company that allows users to share photos and videos.
 
-- 📫 How to reach me, send a mail to moseeb57@gmail.com .
+- 📫 How to reach me, send a mail to moselife57@gmail.com .
 
 <!---
 Moses-BA/Moses-BA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
