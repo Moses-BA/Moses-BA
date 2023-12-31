@@ -11,10 +11,6 @@
       Mobile app development,
       Project management.
 
-- 🌱 I’m currently learning:
-      Cloud computing,
-      Django.
-
 - 💞️ I’m looking to collaborate on:
       Open source projects,
       Commercial projects,
