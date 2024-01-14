@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Moses-BA, a backend developer and software engineer. 
       I'm passionate about using technology to solve real-world problems. 
-      I'm also interested in AI prompt engineering and developing bots for WhatsApp, Telegram, and Discord.
+      I'm also interested in building web and mobile apps, database management and AI prompting.
 
 - 👀 I’m interested in:
       Backend development,
@@ -18,14 +18,23 @@
 
 - 🎯 Skills:
       Java,
-      Python,
-      Spring Boot,
+      Spring Boot(and REST APIs),
       Maven,
-      Hibernate,
+      Spring Data JPA (Hibernate),
+      Spring Security(JWT),
+      DBMS(MySQL, PostgreSQL, Oracle),
+      GIT versionm control,
+      Unit and Integration testing,
+      Agile Software Development,
+      CI/CD pipelines,
+      AWS,
+      Docker and Kubernets,
       AI prompt engineering,
       Client and server RESTful APIs,
-      Web development,
-      Mobile app development.
+      Web app development,
+      Mobile app development(Kotlin).
+      
+      
 
 - 🛠️ Experience:
       Developed a WhatsApp bot that provides customer support for a large e-commerce company,
