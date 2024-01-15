@@ -1,28 +1,32 @@
-- 👋 Hi, I'm Moses-BA, a backend developer and software engineer. 
+# 👋 About me
+      I am Moses-BA, a backend developer and software engineer. 
       I'm passionate about using technology to solve real-world problems. 
       I'm also interested in building web and mobile apps, database management and AI prompting.
 
-- 👀 I’m interested in:
+# 👀 Interests
+  I’m interested in:
       Backend development,
       Software engineering,
       AI prompt engineering,
       large Chatbot development,
-      Web development,
+      full stack Web development,
       Mobile app development,
       Project management.
 
-- 💞️ I’m looking to collaborate on:
+# Collaboration
+ I’m looking to collaborate on:
       Open source projects,
       Commercial projects,
       Personal projects.
 
-- 🎯 Skills:
+# 🎯 Skills
       Java,
+      Vaadin,
       Spring Boot(and REST APIs),
       Maven,
       Spring Data JPA (Hibernate),
       Spring Security(JWT),
-      DBMS(MySQL, PostgreSQL, Oracle),
+      DBMS(MySQL, PostgreSQL, Oracle, MongoDB),
       GIT versionm control,
       Unit and Integration testing,
       Agile Software Development,
@@ -36,7 +40,7 @@
       
       
 
-- 🛠️ Experience:
+# 🛠️ Experience
       Developed a WhatsApp bot that provides customer support for a large e-commerce company,
       Developed a Telegram bot that helps users find and book appointments with doctors,
       Developed a Discord bot that plays music and games with users,
@@ -44,7 +48,7 @@
       Developed a web application for a small business that allows them to manage their inventory and orders,
       Developed a mobile app for a social media company that allows users to share photos and videos.
 
-- 📫 How to reach me, send a mail to moselife57@gmail.com .
+# 📫 How to reach me, send a mail to moselife57@gmail.com .
 
 <!---
 Moses-BA/Moses-BA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
