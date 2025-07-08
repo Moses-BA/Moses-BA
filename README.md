@@ -28,7 +28,7 @@ I'm Moses-BA, a versatile Digital Marketing professional and Software Engineer d
     Strategy & Execution: SEO (Search Engine Optimization), Paid Advertising (Google Ads, Meta Ads, TikTok Ads), Content Strategy, Email Marketing, Social Media Management. <br>
     Optimization: Conversion Rate Optimization (CRO), Web Analytics (Google Analytics). <br>
 
-  Human-Computer Interaction (HCI) & User Experience (UX) Principles
+  Human-Computer Interaction (HCI) & User Experience (UX) Principles <br>
     Approach: User-Centered Design, Usability Testing, User Research. <br>
     Application: Enhancing intuitive interfaces, optimizing user flows, improving engagement through design. <br>
 
