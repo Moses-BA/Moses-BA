@@ -18,19 +18,19 @@ I'm Moses-BA, a versatile Digital Marketing professional and Software Engineer d
 
 # 🎯 Skills
   Software Development & Engineering <br>
-    Languages & Frameworks: Java, Spring Boot (REST APIs, Spring Data JPA, Spring Security JWT), Kotlin (Mobile)
-    Databases: MySQL, PostgreSQL, Oracle, MongoDB (DBMS)
-    DevOps & Cloud: GIT Version Control, Unit/Integration Testing, Agile Software Development, CI/CD Pipelines, AWS, Docker, Kubernetes
-    Architecture: Microservices, Client & Server RESTful APIs, Web & Mobile App Development
-    AI: AI Prompt Engineering
+    Languages & Frameworks: Java, Spring Boot (REST APIs, Spring Data JPA, Spring Security JWT), Kotlin (Mobile). <br>
+    Databases: MySQL, PostgreSQL, Oracle, MongoDB (DBMS). <br>
+    DevOps & Cloud: GIT Version Control, Unit/Integration Testing, Agile Software Development, CI/CD Pipelines, AWS, Docker, Kubernetes. <br>
+    Architecture: Microservices, Client & Server RESTful APIs, Web & Mobile App Development. <br>
+    AI: AI Prompt Engineering. <br>
   
-  Digital Marketing & Growth
-    Strategy & Execution: SEO (Search Engine Optimization), Paid Advertising (Google Ads, Meta Ads, TikTok Ads), Content Strategy, Email Marketing, Social Media Management
-    Optimization: Conversion Rate Optimization (CRO), Web Analytics (Google Analytics)
+  Digital Marketing & Growth <br>
+    Strategy & Execution: SEO (Search Engine Optimization), Paid Advertising (Google Ads, Meta Ads, TikTok Ads), Content Strategy, Email Marketing, Social Media Management. <br>
+    Optimization: Conversion Rate Optimization (CRO), Web Analytics (Google Analytics). <br>
 
   Human-Computer Interaction (HCI) & User Experience (UX) Principles
-    Approach: User-Centered Design, Usability Testing, User Research
-    Application: Enhancing intuitive interfaces, optimizing user flows, improving engagement through design.
+    Approach: User-Centered Design, Usability Testing, User Research. <br>
+    Application: Enhancing intuitive interfaces, optimizing user flows, improving engagement through design. <br>
 
 ## 📫 How to reach me, send a mail to moselife57@gmail.com .
 
