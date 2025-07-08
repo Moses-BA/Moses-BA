@@ -17,7 +17,7 @@ I'm Moses-BA, a versatile Digital Marketing professional and Software Engineer d
       Personal innovation projects.
 
 # 🎯 Skills
-  Software Development & Engineering
+  Software Development & Engineering <br>
     Languages & Frameworks: Java, Spring Boot (REST APIs, Spring Data JPA, Spring Security JWT), Kotlin (Mobile)
     Databases: MySQL, PostgreSQL, Oracle, MongoDB (DBMS)
     DevOps & Cloud: GIT Version Control, Unit/Integration Testing, Agile Software Development, CI/CD Pipelines, AWS, Docker, Kubernetes
