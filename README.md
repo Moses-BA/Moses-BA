@@ -8,7 +8,6 @@ I'm also interested in building web and mobile apps, database management and AI 
       Backend development,
       Software engineering,
       AI prompt engineering,
-      large Chatbot development,
       full stack Web development,
       Mobile app development,
       Project management.
