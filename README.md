@@ -18,19 +18,19 @@ I'm Moses-BA, a versatile Digital Marketing professional and Software Engineer d
 
 # 🎯 Skills
   Software Development & Engineering <br>
-    <blockquote>Languages & Frameworks: Java, Spring Boot (REST APIs, Spring Data JPA, Spring Security JWT), Kotlin (Mobile). </blockquote><br>
-    Databases: MySQL, PostgreSQL, Oracle, MongoDB (DBMS). <br>
-    DevOps & Cloud: GIT Version Control, Unit/Integration Testing, Agile Software Development, CI/CD Pipelines, AWS, Docker, Kubernetes. <br>
-    Architecture: Microservices, Client & Server RESTful APIs, Web & Mobile App Development. <br>
-    AI: AI Prompt Engineering. <br>
+    <blockquote> Languages & Frameworks: Java, Spring Boot (REST APIs, Spring Data JPA, Spring Security JWT), Kotlin (Mobile). </blockquote> <br>
+    <blockquote> Databases: MySQL, PostgreSQL, Oracle, MongoDB (DBMS). </blockquote> <br>
+    <blockquote> DevOps & Cloud: GIT Version Control, Unit/Integration Testing, Agile Software Development, CI/CD Pipelines, AWS, Docker, Kubernetes. </blockquote> <br>
+    <blockquote> Architecture: Microservices, Client & Server RESTful APIs, Web & Mobile App Development. </blockquote> <br>
+    <blockquote> AI: AI Prompt Engineering. </blockquote> <br>
   
   Digital Marketing & Growth <br>
-    Strategy & Execution: SEO (Search Engine Optimization), Paid Advertising (Google Ads, Meta Ads, TikTok Ads), Content Strategy, Email Marketing, Social Media Management. <br>
-    Optimization: Conversion Rate Optimization (CRO), Web Analytics (Google Analytics). <br>
+    <blockquote> Strategy & Execution: SEO (Search Engine Optimization), Paid Advertising (Google Ads, Meta Ads, TikTok Ads, LinkedIn Ads), Content Strategy, Email Marketing, Social Media Management. </blockquote> <br>
+    <blockquote> Optimization: Conversion Rate Optimization (CRO), Web Analytics (Google Analytics). </blockquote> <br>
 
   Human-Computer Interaction (HCI) & User Experience (UX) Principles <br>
-    Approach: User-Centered Design, Usability Testing, User Research. <br>
-    Application: Enhancing intuitive interfaces, optimizing user flows, improving engagement through design. <br>
+    <blockquote> Approach: User-Centered Design, Usability Testing, User Research. </blockquote> <br>
+    <blockquote> Application: Enhancing intuitive interfaces, optimizing user flows, improving engagement through design. </blockquote> <br>
 
 ## 📫 How to reach me, send a mail to moselife57@gmail.com .
 
